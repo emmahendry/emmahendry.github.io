@@ -1,0 +1,23 @@
+body {
+  background-color: LightGoldenRodYellow;
+}
+h1 {
+  color: midnightblue;
+}
+
+h2 {
+  color: darkslategrey;
+}
+
+h2 {
+  color: slateblue;
+}
+
+p {
+  color: black;
+}
+
+div{
+	background-color: lightyellow;
+	color: slateblue;
+}
