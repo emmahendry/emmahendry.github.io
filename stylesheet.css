@@ -1,0 +1,23 @@
+body {
+  background-color: cadetblue;
+}
+h1 {
+  color: darkslategrey;
+}
+
+h2 {
+  color: darkslategrey;
+}
+
+h2 {
+  color: slateblue;
+}
+
+p {
+  color: black;
+}
+
+div{
+	background-color: lightyellow;
+	color: slateblue;
+}
