@@ -1,0 +1,32 @@
+body {
+  background-color: #70a7a9;
+}
+h1 {
+
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  color: #131f20;
+}
+
+h2 {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  color: #1d2f30;
+}
+
+h3 {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  color: #263f40;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+div{
+	background-color: #cfe2e2;
+	color: darkslategrey;
+}
